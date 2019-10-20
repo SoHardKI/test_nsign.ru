@@ -58,3 +58,4 @@ frontend
 vendor/                  contains dependent 3rd-party packages
 environments/            contains environment-based overrides
 ```
+Для поднятия проекта, нужно поднять миграции, сделать команду composer install.
